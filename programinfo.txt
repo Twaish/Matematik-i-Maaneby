@@ -1,0 +1,9 @@
+Matematik i Måneby+
+
+"Matematik i Måneby +" er et matematikspil, hvor børnene skal hjælpe rumvæsener med at opføre en by. Opgaverne er lagt ind under forskellige bygninger i rumbyen. Historien er ikke-lineær, og børnene motiveres hele tiden til at forbedre deres præstationer, fordi bygningernes detaljeringsgrad afhænger af elevens opgavebesvarelse. Spillerens præstationer gemmes automatisk i en logfil.
+
+Børnene får øvet regnefærdigheder og problemregning i et pædagogisk univers med billeder, animationer, musik og tale. Blandt opgaverne er træning i de fire regnearter, geometriske former, areal og rumfang, brøker, procentregning og ligninger. De skrevne tekster oplæses af en vismandsfigur, som også kan give uddybende hjælp til opgaverne.
+
+Inden spillet startes, kan der vælges klassetrin og opgavetyper. 
+
+Målgruppe: Indskolingen og mellemtrinet i matematik.

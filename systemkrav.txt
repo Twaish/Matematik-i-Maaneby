@@ -1,0 +1,14 @@
+Systemkrav - Matematik i Måneby+ (version 1.4.5)
+
+Styresystem: Windows XP med Service Pack 3, Vista Service Pack 2 eller Windows 7.
+Processor: Pentium 500 MHz eller tilsvarende PC
+Ram: 64 MB.
+Harddiskplads: 200 MB
+Skærmopløsning: 1024 x 768 anbefales.
+Lydkort og højttalere.
+
+Adobe Reader 5.0 eller højere for at kunne vise manualen.
+
+På http://www.mikrov.dk/supportprogrammer finder du et link, hvor du kan downloade Acrobat Reader.
+
+Generelt vil programmets ydelse afhænge af hvilke andre programmer der anvendes.  

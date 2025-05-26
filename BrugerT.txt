@@ -1,0 +1,12 @@
+Brugertype: EnkeltBruger
+Sprog: DA
+fCtrlBruger: 0
+5
+Dansk: 1
+English: 0
+Svensk: 0
+Bokmål: 0
+Nynorsk: 0
+Version: 1.4.5
+Build: 1
+Skærmtilstand: 1
