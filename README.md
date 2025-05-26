@@ -2,6 +2,8 @@
 
 Unprotected files for educational game Matematik i Maaneby by Bitfrost Interactive I/S and later associated with **Darkhill Games**. The game was built using **Macromedia Director** and distributed as a standalone Shockwave projector executable.
 
+![game](docs/game_preview.png 'Game Preview')
+
 ## 🧩 Opening the Project
 
 To explore the game's structure and logic:
